@@ -1,0 +1,27 @@
+_repo: The-Secrets-of-the-Great-City-A-Work-Descriptive-of-the-Virtues-and-the-Vices-the-Mysteries-Mi__8856
+creator:
+  author:
+    agent_name: McCabe, James Dabney
+    aliases:
+    - Martin, Edward Winslow
+    - McCabe, James D. (James Dabney)
+    birthdate: 1842
+    deathdate: 1883
+    gutenberg_agent_id: '8798'
+    url: http://www.gutenberg.org/2009/agents/8798
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'New York (N.Y.) -- Description and travel'
+- !lcsh 'New York (N.Y.) -- History'
+title: "The Secrets of the Great City\r\nA Work Descriptive of the Virtues and the\
+  \ Vices, the Mysteries, Miseries and Crimes of New York City"
+url: http://www.gutenberg.org/ebooks/8856
